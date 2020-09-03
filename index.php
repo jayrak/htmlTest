@@ -5,7 +5,7 @@
   <title>dontbecrazy</title>
   <style>
   h1 {
-    color: blue;
+    color: red;
   }
   </style>
 </head>
