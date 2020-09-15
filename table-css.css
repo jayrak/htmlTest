@@ -1,7 +1,13 @@
-<table>
-<meta charset="utf-8">
-.box {
+
+.color{
+    color:white;
+}
+.colorblack{
+    color:black;
+}
+.first{
     background-color: black;
-    width: 100px;
-    height: 100px;
-　}
+}
+.second{
+    background-color:gray;
+}
